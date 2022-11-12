@@ -3,7 +3,8 @@
 
 Bu repo Kodluyoruz Front-End Egitiminde olusturdugumuz ilk repo. İcerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
 # Installation
-Oncelikle projeyi clonelayin.gh repo clone FeyzaKartal/kodluyoruzilkrepo (Buraya sizin reponuzdan aldiginiz link gelecek)
+Oncelikle projeyi clonelayin.
+gh repo clone FeyzaKartal/kodluyoruzilkrepo (Buraya sizin reponuzdan aldiginiz link gelecek)
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
